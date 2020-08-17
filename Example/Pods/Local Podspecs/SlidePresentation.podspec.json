@@ -1,0 +1,23 @@
+{
+  "name": "SlidePresentation",
+  "version": "0.1.0",
+  "summary": "A short description of SlidePresentation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AlexCLH/SlidePresentation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "陈 乐辉": "hephews@126.com"
+  },
+  "source": {
+    "git": "https://github.com/AlexCLH/SlidePresentation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SlidePresentation/Classes/**/*",
+  "frameworks": "UIKit"
+}

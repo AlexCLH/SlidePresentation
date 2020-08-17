@@ -22,7 +22,7 @@ pod 'SlidePresentation'
 
 ## Author
 
-陈 乐辉, chenlehui@qutoutiao.net
+陈 乐辉, hephews@126.com
 
 ## License
 

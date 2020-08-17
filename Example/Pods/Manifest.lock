@@ -1,0 +1,16 @@
+PODS:
+  - SlidePresentation (0.1.0)
+
+DEPENDENCIES:
+  - SlidePresentation (from `../`)
+
+EXTERNAL SOURCES:
+  SlidePresentation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SlidePresentation: a809f1f4b404844dba8d6087e479250310370860
+
+PODFILE CHECKSUM: 31c42946e0e5ba083f77ce83c55e17d769b1cc63
+
+COCOAPODS: 1.8.4
