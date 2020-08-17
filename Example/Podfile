@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SlidePresentation_Example' do
+  pod 'SlidePresentation', :path => '../'
+
+  target 'SlidePresentation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
